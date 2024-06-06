@@ -1,0 +1,33 @@
+/* shopping.css */
+
+/* heading Name styling */
+#name {color: rgb(7, 7, 129);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 50px;
+}
+
+/* The second line as slogan styling */
+.custom-h3 {font-family: fantasy;
+    text-align: center;
+    color: rgba(226, 196, 25, 0.905);
+    margin-bottom: 70px;
+}
+
+/* product image style */
+.product-img {
+    transition: transform 0.3s;
+}
+
+/* product image hover effect */
+.product-img:hover {
+    transform: scale(1.1);
+}
+
+/* logo style */
+#logo{
+    margin-top: 30px;
+    margin-left: 50%;
+}
+
+   
